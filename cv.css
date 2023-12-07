@@ -1,0 +1,30 @@
+.flex-container{
+    display: flex;
+}
+
+.left{
+    border: 0px;
+    height: auto;
+    width: 40%;
+    background-color: beige;
+    text-align: center;
+    padding:3%;
+    font-size: large;
+}
+
+.right{
+    border: 0px;
+    height: auto;
+    width: 60%;
+    background-color: lightblue;
+    text-align: center;
+    padding:3%;
+    font-size: large;
+}
+
+}
+
+body {
+    background-color:rgb(243, 243, 227);
+}
+
